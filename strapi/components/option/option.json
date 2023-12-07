@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_option_options",
+  "info": {
+    "displayName": "Option",
+    "icon": "bell"
+  },
+  "options": {},
+  "attributes": {
+    "Value": {
+      "type": "string"
+    },
+    "Answer": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "qotds",
+  "info": {
+    "singularName": "qotd",
+    "pluralName": "qotds",
+    "displayName": "QOTD",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ActiveId": {
+      "type": "integer"
+    },
+    "LastRenewed": {
+      "type": "date"
+    },
+    "Prompt": {
+      "type": "dynamiczone",
+      "components": ["prompt.prompt"]
+    }
+  }
+}
