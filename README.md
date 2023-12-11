@@ -8,11 +8,11 @@
    </tr> 
   </tr>
   <tr>
-   <img src="https://i.imgur.com/YZaaRsg.png" title="Course View (dark mode)" alt="Course View (dark mode)">
+   <img src="https://i.imgur.com/0UzTlyV.png" title="Course View (light mode)" alt="Course View (light mode)">
    </tr> 
   </tr>
   <tr>
-   <img src="https://i.imgur.com/cElSJxu.png" title="Course View (light mode )" alt="Course View(light mode)">
+   <img src="https://i.imgur.com/sYKJsCg.png" title="Course View (dark mode)" alt="Course View(dark mode)">
    <p>View of an individual course, sections are displayed on the left and can be navigated through, and also manually checked, when completing sections, the course progress percentage updates. The course view also contains a "question of the day" box, which includes a randomly selected question, displayed to all users.</p>
   </tr>
 </table>
